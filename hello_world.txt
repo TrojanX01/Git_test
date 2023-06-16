@@ -1,0 +1,2 @@
+The Odin Project is a great platform.
+It is a platform where people can learn fullstack web development for free.
